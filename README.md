@@ -1,4 +1,7 @@
 # graduation_album
+### ■画面遷移図
+https://www.figma.com/file/tJt9zWNsQU0bBqgDJyCZmb/graduation_album?node-id=0%3A1
+
 ### ■サービス概要
 　何かから卒業する時に思い出を形にしたい悩みを持った人に<br>
 　簡単にweb版卒業アルバムを作成できる価値を与える<br>
