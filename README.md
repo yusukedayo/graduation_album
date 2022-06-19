@@ -75,7 +75,11 @@ https://www.figma.com/file/tJt9zWNsQU0bBqgDJyCZmb/graduation_album?node-id=0%3A1
 
 ### ▼スケジュール
 　企画〜技術調査：6/9〆切
+
 　README〜ER図作成：6/17 〆切
+
 　メイン機能実装：6/18 - 7/1
+
 　β版をRUNTEQ内リリース（MVP）：7/7〆切
+
 　本番リリース：7月中旬
